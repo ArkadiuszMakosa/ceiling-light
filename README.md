@@ -204,3 +204,5 @@ In case of power switch change state, microcontroller from img31 send request to
 In SQL database i have defined events and assigned reaction to it.
 
 If i turn on switch nr1, then led strips from 0 to 6 all goes to 60% of brightness.
+
+TBC
